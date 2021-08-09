@@ -1,7 +1,7 @@
 # Note Taker
 Take notes within your browser and save it to a local database.
 
-Link to deployed application:
+Link to deployed application: https://shielded-scrubland-23221.herokuapp.com/
 
 Link to code repository: https://github.com/raven-bootcamp/note-taker
 ## The Task
